@@ -116,7 +116,6 @@ div.dataTables_info {
 
 table tbody tr:hover {
     background-color: rgb(147 147 147 / 10%)!important;
->>>>>>> 99feaf9 (Fixed some CSS design issues, and updated the conf.py and index.rst)
     box-shadow: 0 .05rem 0 var(--md-default-bg-color) inset !important;
 }
 
